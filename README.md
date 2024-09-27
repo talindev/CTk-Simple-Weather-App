@@ -1,6 +1,6 @@
 # CTk Simple Weather Map
 
-
+![Documentation Main Photo Triple](https://github.com/user-attachments/assets/c48fc23a-8746-49c8-91bf-806546c9cede)
 
 ## Functionality
 
